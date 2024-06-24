@@ -9,3 +9,4 @@ wordcloud
 konlpy
 requests
 bs4
+default-jre
