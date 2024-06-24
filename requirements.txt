@@ -7,3 +7,5 @@ streamlit-folium
 scikit-learn
 wordcloud
 konlpy
+requests
+bs4
