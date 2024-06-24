@@ -5,4 +5,5 @@ pandas
 folium
 streamlit-folium
 scikit-learn
-matplotlib
+wordcloud
+konlpy
