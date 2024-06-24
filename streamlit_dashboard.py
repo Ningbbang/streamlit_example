@@ -334,7 +334,7 @@ with tab4:
     reviews_text = re.sub(clean, '', reviews_text)
 
     wordcloud = WordCloud(
-        font_path='https://github.com/Ningbbang/personal_project/blob/main/NanumGothic.ttf',
+        font_path='./NanumGothic.ttf',
         relative_scaling=0.2,
         background_color='white'
     ).generate_from_frequencies(word)
@@ -364,7 +364,7 @@ with tab4:
     # wordcloud
 
     wordcloud = WordCloud(
-        font_path='https://github.com/Ningbbang/personal_project/blob/main/NanumGothic.ttf',
+        font_path='./NanumGothic.ttf',
         relative_scaling=0.2,
         mask=logo,
         background_color='white'
@@ -376,7 +376,7 @@ with tab4:
     col1.pyplot(fig)
 
     wordcloud = WordCloud(
-        font_path='https://github.com/Ningbbang/personal_project/blob/main/NanumGothic.ttf',
+        font_path='./NanumGothic.ttf',
         relative_scaling=0.2,
         mask=logo,
         background_color='white',
