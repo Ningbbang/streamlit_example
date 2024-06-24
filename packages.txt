@@ -1,1 +1,1 @@
-openjdk-22-jre
+openjdk-18-jre
